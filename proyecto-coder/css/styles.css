@@ -1,0 +1,66 @@
+.bg-orange {
+    background-color: orange;
+}
+
+body {
+    color: rgb(15, 15, 15);
+    background-color: paleturquoise;
+
+
+    h1 {
+        background-color: width:;
+        font-size: 100px;
+        font-family: 'Anton', sans-serif;
+
+        av {
+            color: black;
+            display: flex;
+            gap: 20px;
+            font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+            footer {
+                background-color: antiquewhite;
+            }
+
+
+            .titulo-sabemos-cuidarte {
+                color: black;
+                font-size: 70px;
+                font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+                justify-content:;}
+
+
+
+            .bg-orange {
+                color: orange;
+            }
+
+            .bg-aqua {
+                background-color: aquamarine;
+                justify-content: center;
+            }
+
+            footer {
+                background-color: rgb(75, 176, 223);
+            }
+
+            figcaption {
+                font-size: 20px;
+                background-colofr: rgb(68, 10, 63);
+            }
+
+            form {
+                font: size 15px;
+                ;
+            }
+
+            div {
+                font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+                font-size: 5opx;
+            }
+
+
+            nav {
+                color: midnightblue;
+                
+            }

@@ -4,11 +4,11 @@
 
 body {
     color: rgb(15, 15, 15);
-    background-color: paleturquoise;
+    background-color: paleturquoise;}
 
 
     h1{
-        background-color: width:;
+        background-color: width;
         font-size: 100px;
         font-family: 'Anton', sans-serif;}
 
@@ -27,7 +27,7 @@ body {
                 color: black;
                 font-size: 70px;
                 font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-                justify-content: ;
+                justify-content:center;
             }
 
 
